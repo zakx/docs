@@ -18,6 +18,8 @@ WARNING:
 
 -	[`8`, `8u192`, `8-al2-full`, `latest` (*Dockerfile*)](https://github.com/corretto/corretto-8-docker/blob/ca83f84faf06f5ca115ac922926e37fb183a2126/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/amazoncorretto/badge/icon) (`amd64/amazoncorretto` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/amazoncorretto/)
+
 # Quick reference
 
 -	**Where to get help**:  
