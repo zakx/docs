@@ -16,9 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`v1.7.7`, `1.7.7`, `v1.7`, `1.7`, `maroilles`, `latest` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/721355f6a0a56d8cd79bfbe4030dcd43bce5ac01/scratch/amd64/Dockerfile)
--	[`v1.7.7-alpine`, `1.7.7-alpine`, `v1.7-alpine`, `1.7-alpine`, `maroilles-alpine`, `alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/721355f6a0a56d8cd79bfbe4030dcd43bce5ac01/alpine/Dockerfile)
 -	[`v1.7.7-nanoserver`, `1.7.7-nanoserver`, `v1.7-nanoserver`, `1.7-nanoserver`, `maroilles-nanoserver`, `v1.7.7-nanoserver-sac2016`, `1.7.7-nanoserver-sac2016`, `v1.7-nanoserver-sac2016`, `1.7-nanoserver-sac2016`, `maroilles-nanoserver-sac2016`, `nanoserver`, `nanoserver-sac2016` (*windows/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/721355f6a0a56d8cd79bfbe4030dcd43bce5ac01/windows/Dockerfile)
+
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/windows-amd64/job/traefik/badge/icon) (`winamd64/traefik` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/windows-amd64/job/traefik/)
 
 # Quick reference
 
